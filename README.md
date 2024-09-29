@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<h1>Welcome to My Git !</h1>
+<h1>Welcome to My Git !🍊🍊🍊</h1>
 
 ---
 <FONT SIZE = 5>
